@@ -11,7 +11,7 @@ Actually, the photo is of gEnki, as soon as gEnki is assembled I will update the
 ---
 
 ## Main Features:  
-* 42 switches (supports multiple types, see here)
+* 42/36 switches
 * Easily accessible power switch and reset button 
 * Bluetooth support
 * 3 status LEDs
