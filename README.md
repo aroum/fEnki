@@ -1,5 +1,5 @@
 # fEnki  
-fEnki is an open source (free) free version of Enki(gbEnki).
+fEnki is an open source (free) version of Enki (gbEnki).
 fEnki is fully compatible with gbEnki. You can use gbEnki [cases, plates](https://github.com/aroum/gbEnki) and [firmware](https://github.com/aroum/zmk-gbEnki) on your fEnki.
 
 Gerber files can be downloaded in the [releases section](https://github.com/aroum/fEnki/releases).
