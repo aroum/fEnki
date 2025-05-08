@@ -16,6 +16,7 @@ Actually, the photo is of gEnki, as soon as gEnki is assembled I will update the
 * Bluetooth support
 * 3 status LEDs
 * Double sided board design
+* Choc spacing
 
 ---
 ## BOM:  
